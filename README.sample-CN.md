@@ -76,7 +76,7 @@ Give an example
 
 ## Style guide
 
-Explain your code style and show how to check it.
+介绍你的代码风格，并演示如何检验是否符合规范。
 
 ## Api Reference
 
