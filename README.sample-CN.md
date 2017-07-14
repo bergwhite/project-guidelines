@@ -62,10 +62,9 @@ And again you'd need to tell what the previous code actually does.
 我们可以使用[SemVer](http://semver.org/lang/zh-CN/)（语义化版本规范）进行版本管理。当前项目的版本，请见[当前仓库的tags](/tags)（当前项目没有Tag）。
 
 
-## Configuration
+## 配置
 
-Here you should write what are all of the configurations a user can enter when
-using the project.
+在这里写下所有用户可以使用的配置。
 
 ## Tests
 
