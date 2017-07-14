@@ -1,20 +1,19 @@
-![Logo of the project](./images/logo.sample.png)
+![项目Logo](./images/logo.sample.png)
 
-# Name of the project
+# 项目名称
 > Additional information or tag line
 
-A brief description of your project, what it is used for.
+简要描述项目的用途。
 
-## Installing / Getting started
+## 安装 / 使用
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
+简要介绍运行一个Hello World需要的最简单步骤。
 
 ```shell
-commands here
+commands here  // 在这里写命令
 ```
 
-Here you should say what actually happens when you execute the code above.
+在这里说明代码的执行结果。
 
 ## Developing
 
