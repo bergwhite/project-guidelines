@@ -2,28 +2,27 @@
 [<img src="./images/logo.png">](http://wearehive.co.uk/)
 
 
-# Project Guidelines &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# 项目指导方案 &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 > While developing a new project is like rolling on a green field for you, maintaining it is a potential dark twisted nightmare for someone else.
-Here's a list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects here at [hive](http://wearehive.co.uk).
-If you want to share a best practice, or think one of these guidelines  should be removed, [feel free to share it with us](http://makeapullrequest.com).
+下面是我们了解到的一些指导方案。主要收集在[hive](http://wearehive.co.uk)中大多数项目都适用的规则。如果你想分享最佳实践，或是思考其中的一条规则，请去[feel free to share it with us](http://makeapullrequest.com)。
 - [Git](#git)
-    - [Some Git rules](#some-git-rules)
-    - [Git workflow](#git-workflow)
-    - [Writing good commit messages](#writing-good-commit-messages)
-- [Documentation](#documentation)
-- [Environments](#environments)
-    - [Consistent dev environments](#consistent-dev-environments)
-    - [Consistent dependencies](#consistent-dependencies)
-- [Dependencies](#dependencies)
-- [Testing](#testing)
-- [Structure and Naming](#structure-and-naming)
+    - [Git 规则](#some-git-rules)
+    - [Git 工作流](#git-workflow)
+    - [写好commit信息](#writing-good-commit-messages)
+- [文档](#documentation)
+- [环境](#environments)
+    - [一致的开发环境](#consistent-dev-environments)
+    - [一致的依赖](#consistent-dependencies)
+- [依赖](#dependencies)
+- [测试](#testing)
+- [结构和命名](#structure-and-naming)
 - [Code style](#code-style)
-- [Logging](#logging)
+- [日志](#logging)
 - [API](#api)
-    - [API Design](#api-design)
-    - [API security](#api-security)
-    - [API documentation](#api-documentation)
-- [Licensing](#licensing)
+    - [API 设计](#api-design)
+    - [API 安全](#api-security)
+    - [API 文档](#api-documentation)
+- [许可证](#licensing)
 
 <a name="git"></a>
 ## 1. Git
