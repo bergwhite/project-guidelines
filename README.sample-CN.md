@@ -80,8 +80,7 @@ Give an example
 
 ## Api Reference
 
-If the api is external, link to api documentation. If not describe your api including authentication methods as well as explaining all the endpoints with their required parameters.
-
+描述所有接口需要的参数（包括认证方法）。如果在站外有API文档，请给出文档链接。
 
 ## Database
 
