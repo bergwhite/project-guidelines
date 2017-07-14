@@ -82,10 +82,9 @@ Give an example
 
 描述所有接口需要的参数（包括认证方法）。如果在站外有API文档，请给出文档链接。
 
-## Database
+## 数据库
 
-Explaining what database (and version) has been used. Provide download links.
-Documents your database design and schemas, relations etc... 
+说明项目使用的数据库，给出下载链接。另外写出数据库的设计、模式、关系等。 
 
 ## Licensing
 
