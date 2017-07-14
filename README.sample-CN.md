@@ -57,9 +57,9 @@ packagemanager deploy your-project -s server.com -u username -p password
 
 And again you'd need to tell what the previous code actually does.
 
-## Versioning
+## 版本
 
-We can maybe use [SemVer](http://semver.org/) for versioning. For the versions available, see the [link to tags on this repository](/tags).
+我们可以使用[SemVer](http://semver.org/lang/zh-CN/)（语义化版本规范）进行版本管理。当前项目的版本，请见[当前仓库的tags](/tags)（当前项目没有Tag）。
 
 
 ## Configuration
