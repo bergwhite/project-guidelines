@@ -15,46 +15,41 @@ commands here  // 在这里写命令
 
 在这里说明代码的执行结果。
 
-## Developing
+## 开发
 
-### Built With
-List main libraries, frameworks used including versions (React, Angular etc...)
+### 构建
+列出使用的主要库和框架(如React, Angular)，包括版本号。
 
-### Prerequisites
-What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
+### 依赖
+开发环境需要安装的。比如全局依赖或其他工具，最好提供下载链接。
 
 
 ### Setting up Dev
 
-Here's a brief intro about what a developer must do in order to start developing
-the project further:
+下面简要介绍一下开发者运行项目必须要做的事情。
 
 ```shell
-git clone https://github.com/your/your-project.git
-cd your-project/
-packagemanager install
+git clone https://github.com/your/your-project.git  // 克隆项目
+cd your-project/  // 进入目录
+packagemanager install  // 安装环境
 ```
 
-And state what happens step-by-step. If there is any virtual environment, local server or database feeder needed, explain here.
+紧接着逐步说明会发生的事情。在需要虚拟环境、本地服务器或者数据库的时候，也要特此说明。
 
-### Building
+### 构建
 
-If your project needs some additional steps for the developer to build the
-project after some code changes, state them here. for example:
+修改代码后，需要进行其他操作的时候，请在此说明。例如：
 
 ```shell
-./configure
-make
-make install
+./configure  // 生成配置文件
+make  // 编译
+make install  // 安装
 ```
 
-Here again you should state what actually happens when the code above gets
-executed.
+在这说明代码执行后发生的事情。
 
-### Deploying / Publishing
-give instructions on how to build and release a new version
-In case there's some step you have to take that publishes this project to a
-server, this is the right time to state it.
+### 部署 / 发布
+指导开发者如何构建和发布新版应用。在发布的过程中，如果有一些必须要做的步骤，请在此声明。
 
 ```shell
 packagemanager deploy your-project -s server.com -u username -p password
