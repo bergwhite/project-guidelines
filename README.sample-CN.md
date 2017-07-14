@@ -66,10 +66,9 @@ And again you'd need to tell what the previous code actually does.
 
 在这里写下所有用户可以使用的配置。
 
-## Tests
+## 测试
 
-Describe and show how to run the tests with code examples.
-Explain what these tests test and why.
+用例子来说明如何进行测试。解释代码测试了什么，以及为什么要进行测试。
 
 ```shell
 Give an example
