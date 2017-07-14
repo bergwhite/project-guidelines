@@ -86,6 +86,6 @@ Give an example
 
 说明项目使用的数据库，给出下载链接。另外写出数据库的设计、模式、关系等。 
 
-## Licensing
+## 许可证
 
-State what the license is and how to find the text version of the license.
+声明你正在使用的许可证以及查找全文的方法。
